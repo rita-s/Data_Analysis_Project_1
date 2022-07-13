@@ -1,4 +1,4 @@
-Year,Compant,Job Title,Annual Salary,Location,Years of Experience,Gender,Masters Degree,Bachelors Degree,Doctorate Degree,Highschool,Some College,Education
+Year,Company,Job Title,Annual Salary,Location,Years of Experience,Gender,Masters Degree,Bachelors Degree,Doctorate Degree,High School,Some College,Education
 2020,PwC,Business Analyst,115000,"Los Angeles, CA",5,Female,1,0,0,0,0,Master's Degree
 2020,Fractal Analytics,Data Scientist,85000,"Bangalore, KA, India",4,Male,0,1,0,0,0,Bachelor's Degree
 2020,Microsoft,Data Scientist,156000,"Seattle, WA",2,Male,0,0,1,0,0,PhD
