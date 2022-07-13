@@ -1,4 +1,5 @@
 # Data_Analysis_HR_Hackers
+
 ###### According to Jobscan, 99% of Fortune 500 companies use an Applicant Tracking System (ATS) as their recruitment strategy.
 ###### All ATS' store candidates' information by using keywords, so it's easy to parse and filter them.
 ###### If applicant's resume does not meet certain criteria, it is either flagged or auto-rejected.
