@@ -13,7 +13,7 @@
 ###### 3. What were the most popular soft skills? (Frequency analysis)
 ###### 4. Is there a relationship between education level and earnings? If yes, what is the relationship? (Regression analysis)
 ###### 5. Is there a relationship between years of experience and earnings? If yes, what is the relationship? (Regression analysis)
-<br><br>
+<br>
 ### Hypotheses:
 ###### 1. There are certain technologies that are more sought after than others.
 ###### 2. There are certain tools that are more sought after than others.
