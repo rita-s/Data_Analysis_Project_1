@@ -6,7 +6,7 @@
 ###### All ATS' store candidates' information by using keywords, so it's easy to parse and filter them.
 ###### If applicant's resume does not meet certain criteria, it is either flagged or auto-rejected.
 ###### "Beat the ATS" Project aims to analyse the most popular tools and skills (keywords) for Data Analytics field and check if there is a relationship between those skills and earnings.
-<br><br>
+<br>
 ## Research Questions:
 <b>All research questions are based on years 2020-2021 in the United States of America</b>
 <br><br>
@@ -15,7 +15,7 @@
 ###### 3. What were the most popular soft skills? (Frequency analysis)
 ###### 4. Is there a relationship between education level and earnings? If yes, what is the relationship? (Regression analysis)
 ###### 5. Is there a relationship between years of experience and earnings? If yes, what is the relationship? (Regression analysis)
-<br><br>
+<br>
 ### Hypotheses:
 ###### 1. There are certain technologies that are more sought after than others.
 ###### 2. There are certain tools that are more sought after than others.
