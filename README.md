@@ -1,5 +1,7 @@
 # Data_Analysis_HR_Hackers
 
+### Summary
+
 ###### According to Jobscan, 99% of Fortune 500 companies use an Applicant Tracking System (ATS) as their recruitment strategy.
 ###### All ATS' store candidates' information by using keywords, so it's easy to parse and filter them.
 ###### If applicant's resume does not meet certain criteria, it is either flagged or auto-rejected.
@@ -13,7 +15,7 @@
 ###### 3. What were the most popular soft skills? (Frequency analysis)
 ###### 4. Is there a relationship between education level and earnings? If yes, what is the relationship? (Regression analysis)
 ###### 5. Is there a relationship between years of experience and earnings? If yes, what is the relationship? (Regression analysis)
-<br>
+<br><br>
 ### Hypotheses:
 ###### 1. There are certain technologies that are more sought after than others.
 ###### 2. There are certain tools that are more sought after than others.
