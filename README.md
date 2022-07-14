@@ -28,11 +28,11 @@
 
 
 ### Tools Used
-Jupiter Notebook
-Python
-Pandas
-NumPy
-SciPy
-NLTK
-Scikit-learn
+###### 1. Jupiter Notebook
+###### 2. Python
+###### 3. Pandas
+###### 4. NumPy
+###### 5. SciPy
+###### 6. NLTK
+###### 7. Scikit-learn
 
