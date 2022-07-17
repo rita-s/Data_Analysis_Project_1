@@ -33,6 +33,4 @@
 ###### 3. Pandas
 ###### 4. NumPy
 ###### 5. SciPy
-###### 6. NLTK
-###### 7. Scikit-learn
 
