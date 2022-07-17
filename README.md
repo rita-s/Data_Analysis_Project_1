@@ -44,3 +44,12 @@
 ###### 4. NumPy
 ###### 5. SciPy
 
+### References:
+###### 1. Matplotlib - Bar Plot. Available from: https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm
+###### 2. Kaggle: Your Machine Learning and Data Science Community. Available from: https://www.kaggle.com/
+###### 3. Optimize Your Resume and Boost Interview Chances - Jobscan. Available from: https://www.jobscan.co/
+###### 4. ANOVA using Python (with examples): Available from: https://www.reneshbedre.com/blog/anova.html
+###### 5. Descriptive Statistics. Available from: https://www.w3schools.com/statistics/index.php
+###### 6. Maps API from https://mapsplatform.google.com/
+###### 7. Statistics plots from:  https://matplotlib.org/stable/plot_types/index.html
+
