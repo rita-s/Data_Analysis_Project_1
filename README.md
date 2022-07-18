@@ -12,11 +12,11 @@
 <b>All research questions are based on years 2020-2021 in the United States of America</b>
 
 
-###### 1. What were the most popular technologies employers sought in Data Analytics field in the period 2020-2021? (Frequency analysis)
-###### 2. What were the most popular tools employers sought? (Frequency analysis)
-###### 3. What were the most popular soft skills? (Frequency analysis)
-###### 4. Is there a relationship between education level and earnings? If yes, what is the relationship? (Regression analysis)
-###### 5. Is there a relationship between years of experience and earnings? If yes, what is the relationship? (Regression analysis)
+###### 1. What were the most popular technologies employers sought in Data Analytics field in the period 2020-2021?
+###### 2. What were the most popular tools employers sought? 
+###### 3. What were the most popular soft skills? 
+###### 4. Is there a relationship between education level and earnings? If yes, what is the relationship? 
+###### 5. Is there a relationship between years of experience and earnings? If yes, what is the relationship? 
 
 
 ### Hypotheses:
