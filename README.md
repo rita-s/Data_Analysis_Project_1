@@ -54,6 +54,8 @@
 ###### 3. Pandas
 ###### 4. NumPy
 ###### 5. SciPy
+###### 6. Matplotlip
+###### 7. Plotly
 
 ### References:
 ###### 1. Matplotlib - Bar Plot. Available from: https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm
