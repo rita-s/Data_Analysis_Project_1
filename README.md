@@ -38,7 +38,7 @@
 ###### 4. There are certain soft skills that are sought after by employers: the most sought after soft skills are: Communication, ability to work in agile as well as problem-solving skills (in this order).
 <img src= "https://github.com/rita-s/Data_Analysis_HR-Hackers/blob/main/Comparison%20of%20Soft%20Skills%20in%20Data%20Analytics%20Field.png">
 
-###### 5. There is a correlation between education level and earnings: the average Bachelor with 5 years of experience is paid 139,118 thousand dollars, the average master’s holder with 5 years of experience is paid 176,000 thousand dollars. The average PhD holder with 5 years of experience is paid 268,555 thousand dollars. Findings for  High School and 'Some College' qualification result can be inaccurate as there was not enough data. Therefore, the data for that may not reflect reality, but it could potentially give a rough idea of how it may be.
+###### 5. There is a correlation between education level and earnings: the average Bachelor with 5 years of experience is paid 153,080 thousand dollars, the average master’s holder with 5 years of experience is paid 186,865 thousand dollars. The average PhD holder with 5 years of experience is paid 291,645 thousand dollars. Findings for High School and 'Some College' qualification result can be inaccurate as there was not enough data, therefore they are not included in findings. Therefore, the data for that may not reflect reality, but it could potentially give a rough idea of how it may be.
 
 <img src= "https://github.com/rita-s/Data_Analysis_HR-Hackers/blob/main/Comparison%20of%20level%20of%20education%20to%20earnings.png">
 
