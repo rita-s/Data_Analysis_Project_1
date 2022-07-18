@@ -54,7 +54,7 @@
 ###### 3. Pandas
 ###### 4. NumPy
 ###### 5. SciPy
-###### 6. Matplotlip
+###### 6. Matplotlib
 ###### 7. Plotly
 
 ### References:
