@@ -26,7 +26,7 @@
 <img src="https://github.com/rita-s/Data_Analysis_HR-Hackers/blob/main/Visualisations/Education%20Level%20to%20earnings%20for%20Data%20Scientist.png" alt="Education Level to earnings for Business Analyst" title="Education Level to earnings for Business Analyst">
 
 ###### 5. Is there a relationship between years of experience and earnings? If yes, what is the relationship?
-<img src="https://github.com/rita-s/Data_Analysis_HR-Hackers/blob/main/Visualisations/Annual%20Salary%20and%20Years%20of%20Experience%20Trend%20line.png" alt="Annual Salary and Years of Experience Trend line' title="Annual Salary and Years of Experience Trend line'">
+<img src="https://github.com/rita-s/Data_Analysis_HR-Hackers/blob/main/Visualisations/Annual%20Salary%20and%20Years%20of%20Experience%20Trend%20line.png" alt="Annual Salary and Years of Experience Trend line" title="Annual Salary and Years of Experience Trend line'">
 
 
 ### Hypotheses:
