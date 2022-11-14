@@ -48,7 +48,7 @@ If applicant's resume does not meet certain criteria, it is either flagged or au
 
 
 
-## 📜 Languages, Libraries and Tools Used:
+## 🛠️ Languages, Libraries and Tools Used:
 1. Jupiter Notebook
 2. Python
 3. Pandas
