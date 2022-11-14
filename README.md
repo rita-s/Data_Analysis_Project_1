@@ -1,14 +1,14 @@
 # Job Market Data Analysis
 
-### Summary
+### 📝 Project Description
 
-###### According to Jobscan, 99% of Fortune 500 companies use an Applicant Tracking System (ATS) as their recruitment strategy.
-###### All ATS' store candidates' information by using keywords, so it's easy to parse and filter them.
-###### If applicant's resume does not meet certain criteria, it is either flagged or auto-rejected.
-###### "Beat the ATS" Project aims to analyse the most popular tools and skills (keywords) for Data Analytics field and check if there is a relationship between those skills, education and earnings.
+According to Jobscan, 99% of Fortune 500 companies use an Applicant Tracking System (ATS) as their recruitment strategy.
+All ATS' store candidates' information by using keywords, so it's easy to parse and filter them.
+If applicant's resume does not meet certain criteria, it is either flagged or auto-rejected.
+"Beat the ATS" Project aims to analyse the most popular tools and skills (keywords) for Data Analytics field and check if there is a relationship between those skills, education and earnings.
 
 
-### Research Questions:
+### ❔ Research Questions:
 <b>All research questions are based on years 2020-2021 in the United States of America</b>
 
 
@@ -29,7 +29,7 @@
 <img src="https://github.com/rita-s/Data_Analysis_HR-Hackers/blob/main/Visualisations/Annual%20Salary%20and%20Years%20of%20Experience%20Trend%20line.png" alt="Annual Salary and Years of Experience Trend line" title="Annual Salary and Years of Experience Trend line'">
 
 
-### Hypotheses:
+### ❔ Hypotheses:
 ###### 1. There are certain technologies that are more sought after than others.
 ###### 2. There are certain tools that are more sought after than others.
 ###### 3. There are certain soft skills that are sought after by employers.
@@ -37,7 +37,7 @@
 ###### 5. There is a correlation between experience level (measured in years) and earnings.
 
 
-### Findings:
+### 💡 Findings:
 ###### 1. The analysis has confirmed all five hypotheses.
 ###### 2. There are certain technologies that are more sought after than others: the most sought after language for Data Analytics is SQL, the second is Python, the third is SAS.
 ###### 3. There are certain tools that are more sought after than others: the most sought after tool is Tableau and then Power BI.
@@ -48,7 +48,7 @@
 
 
 
-### Languages, Libraries and Tools Used:
+## 📜 Languages, Libraries and Tools Used:
 ###### 1. Jupiter Notebook
 ###### 2. Python
 ###### 3. Pandas
@@ -57,7 +57,7 @@
 ###### 6. Matplotlib
 ###### 7. Seaborn
 
-### References:
+## 📚 References
 ###### 1. Matplotlib - Bar Plot. Available from: https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm
 ###### 2. Kaggle: Your Machine Learning and Data Science Community. Available from: https://www.kaggle.com/
 ###### 3. Optimize Your Resume and Boost Interview Chances - Jobscan. Available from: https://www.jobscan.co/
