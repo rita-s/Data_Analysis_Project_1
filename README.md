@@ -30,39 +30,39 @@ If applicant's resume does not meet certain criteria, it is either flagged or au
 
 
 ### ❔ Hypotheses:
-###### 1. There are certain technologies that are more sought after than others.
-###### 2. There are certain tools that are more sought after than others.
-###### 3. There are certain soft skills that are sought after by employers.
-###### 4. There is a correlation between education level and earnings.
-###### 5. There is a correlation between experience level (measured in years) and earnings.
+1. There are certain technologies that are more sought after than others.
+2. There are certain tools that are more sought after than others.
+3. There are certain soft skills that are sought after by employers.
+4. There is a correlation between education level and earnings.
+5. There is a correlation between experience level (measured in years) and earnings.
 
 
 ### 💡 Findings:
-###### 1. The analysis has confirmed all five hypotheses.
-###### 2. There are certain technologies that are more sought after than others: the most sought after language for Data Analytics is SQL, the second is Python, the third is SAS.
-###### 3. There are certain tools that are more sought after than others: the most sought after tool is Tableau and then Power BI.
-###### 4. There are certain soft skills that are sought after by employers: the most sought after soft skills are: Communication, ability to work in agile as well as problem-solving skills (in this order).
-###### 5. There is a correlation between education level and earnings: the higher education, the higher average pay. Findings for High School and 'Some College' qualification result can be inaccurate as there was not enough data, therefore they are not included in findings. Therefore, the data for that may not reflect reality, but it could potentially give a rough idea of how it may be.
-###### 6. San Francisco Bay, New York and Seattle areas' average salary is higher than in other areas (showed on heat maps).
-###### 7. There is a correlation between experience level (measured in years) and earnings: as years of experience increase, the annual salary increases proportionally.
+1. The analysis has confirmed all five hypotheses.
+2. There are certain technologies that are more sought after than others: the most sought after language for Data Analytics is SQL, the second is Python, the third is SAS.
+3. There are certain tools that are more sought after than others: the most sought after tool is Tableau and then Power BI.
+4. There are certain soft skills that are sought after by employers: the most sought after soft skills are: Communication, ability to work in agile as well as problem-solving skills (in this order).
+5. There is a correlation between education level and earnings: the higher education, the higher average pay. Findings for High School and 'Some College' qualification result can be inaccurate as there was not enough data, therefore they are not included in findings. Therefore, the data for that may not reflect reality, but it could potentially give a rough idea of how it may be.
+6. San Francisco Bay, New York and Seattle areas' average salary is higher than in other areas (showed on heat maps).
+7. There is a correlation between experience level (measured in years) and earnings: as years of experience increase, the annual salary increases proportionally.
 
 
 
 ## 📜 Languages, Libraries and Tools Used:
-###### 1. Jupiter Notebook
-###### 2. Python
-###### 3. Pandas
-###### 4. NumPy
-###### 5. SciPy
-###### 6. Matplotlib
-###### 7. Seaborn
+1. Jupiter Notebook
+2. Python
+3. Pandas
+4. NumPy
+5. SciPy
+6. Matplotlib
+7. Seaborn
 
 ## 📚 References
-###### 1. Matplotlib - Bar Plot. Available from: https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm
-###### 2. Kaggle: Your Machine Learning and Data Science Community. Available from: https://www.kaggle.com/
-###### 3. Optimize Your Resume and Boost Interview Chances - Jobscan. Available from: https://www.jobscan.co/
-###### 4. ANOVA using Python (with examples): Available from: https://www.reneshbedre.com/blog/anova.html
-###### 5. Descriptive Statistics. Available from: https://www.w3schools.com/statistics/index.php
-###### 6. Maps API from https://mapsplatform.google.com/
-###### 7. Statistics plots from:  https://matplotlib.org/stable/plot_types/index.html
+1. Matplotlib - Bar Plot. Available from: https://www.tutorialspoint.com/matplotlib/matplotlib_bar_plot.htm
+2. Kaggle: Your Machine Learning and Data Science Community. Available from: https://www.kaggle.com/
+3. Optimize Your Resume and Boost Interview Chances - Jobscan. Available from: https://www.jobscan.co/
+4. ANOVA using Python (with examples): Available from: https://www.reneshbedre.com/blog/anova.html
+5. Descriptive Statistics. Available from: https://www.w3schools.com/statistics/index.php
+6. Maps API from https://mapsplatform.google.com/
+7. Statistics plots from:  https://matplotlib.org/stable/plot_types/index.html
 
